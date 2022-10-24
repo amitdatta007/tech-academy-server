@@ -1,3 +1,101 @@
 [
-    
+    {
+        "id": "01",
+        "name": "Become a Certified HTML, CSS, JavaScript Web Developer",
+        "description": "Learn What It Takes to Code Dynamic, Professional Websites and Web Apps From The Comfort of Your Own Home Do you ever browse the internet wondering how your favorite websites were built? Facebook, Twitter, Amazon—they were all created by people who at one point in time didn’t know anything about coding. How did they obtain this knowledge? In this comprehensive course, I’m going to show you everything you need to know so that you can follow in these people’s footsteps. You’re going to learn how to code AND you’re going to become a certified professional from a recognized international trainer. And best of all, you’re going to have fun doing it. You Don’t Have to Be a Genius or a Mathematical Wizard. So many people believe that you must have a special ‘gift’ to create professional-quality, dynamic websites/web apps.",
+        "thumbnail": "https://i.ytimg.com/vi/J35jug1uHzE/maxresdefault.jpg",
+        "price": "16.99",
+        "students": "167912",
+        "rating": "4.6"
+    },
+    {
+        "id": "02",
+        "name": "The Complete Fullstack Web Developer Course",
+        "description": "This was the first Complete Web Development course on Udemy. It's extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many Complete Web Development courses on Udemy today they took what worked and made spin off courses.Join over 80,000 other students in this massive course! This course is designed for every skill level. Whether you're just learning web development today, or you're already a Python Pro, there's lots to learn for everybody!",
+        "thumbnail": "https://i.ytimg.com/vi/alC4o-91eeY/maxresdefault.jpg",
+        "author": "Kalob Taulien",
+        "price": "16.99",
+        "students": "44380",
+        "rating": "4.5"
+    },
+    {
+        "id": "03",
+        "name": "Python and Django Full Stack Web Developer Bootcamp",
+        "description": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies! Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you! We will teach you the latest technologies for building great web applications with Python 3 and Django! But we don't just teach that, we also teach the Front End technologies you need to know, including HTML, CSS, and Javascript. This course can be your one stop shop for everything you need! It will serve as a useful reference for many of your questions as you begin your journey in becoming a web developer!",
+        "thumbnail": "https://i.ytimg.com/vi/TBYIki-pMNI/maxresdefault.jpg",
+        "author": "Jose Portilla",
+        "price": "24.99",
+        "students": "38609",
+        "rating": "4.6"
+    },
+    {
+        "id": "04",
+        "name": "Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more",
+        "description": "Just updated with all modern Design tools and best practices for 2022! Join a live online community of over 600,000+ students and a course taught by industry experts that have actually worked both in Silicon Valley and Toronto for top companies. A great Designer is becoming harder and harder to find and it isn't rare to find designers make $160,000+ salaries now because it is such a valuable skill. We will teach you how to get there! Using the latest best practices in Web Design and Mobile Design as well as User Interface and User Experience Design (UI/UX), this course focuses on efficiently getting you from zero to a point where you can get hired or win freelance contracts. We will use in demand tools like Figma to show you a full workflow from start to finish.",
+        "thumbnail": "https://i.ytimg.com/vi/ewJgxHQo0TU/maxresdefault.jpg",
+        "author": "Zero To Mastery",
+        "price": "19.99",
+        "students": "83237",
+        "rating": "4.8"
+    },
+    {
+        "id": "05",
+        "name": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+        "description": "This course covers C++ from very basic to more advanced features. Concepts of C++ programming are made very simple and easy. Every topic is covered in greater detail. All Lecture are discussed both on white board like a classroom session and practical demo. Programs and Bullet points are provided as resource. Every Topic is Explained with Real life Examples. This course also covers features of modern C++ 11. Student Project at the end of Course. You will be learning concepts perfectly and also learn how to perfectly utilise features of C++. you will be confident to develop any type of Application using C++. Beginners - (Concepts are Covered from Basics to Advance). Course Covers more than University Syllabus. If you already know C++ then you will definitely improve your understanding of programming and OOPs concepts.",
+        "thumbnail": "https://i.ytimg.com/vi/McojvctVsUs/maxresdefault.jpg",
+        "author": "Abdul Bari",
+        "price": "56.90",
+        "students": "59284",
+        "rating": "4.4"
+    },
+    {
+        "id": "06",
+        "name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "description": "Brief refreshers on the core technologies (React, Node, Express, MongoDB) Project sections for each technology where the theoretic knowledge is applied. Detailed theory about the MERN stack and the different ways of combining the technologies. A complete course project where all the technologies come together into one application File (image) upload in both React.js (sending the file) and Node/ Express (receiving the file) User authentication (signup + login) User authorization (controlling access to certain resources). Detailed deployment instructions - including different ways of deploying the application. Tons of quizzes and extra resources! By the end of this course, you'll feel comfortable building your own MERN stack applications and you can build up on all the knowledge taught throughout this course to dive into your own projects and use-cases.",
+        "thumbnail": "https://i.ytimg.com/vi/ngc9gnGgUdA/maxresdefault.jpg",
+        "author": "Manuel Lorenz",
+        "price": "84.99",
+        "students": "46855",
+        "rating": "4.6"
+    },
+    {
+        "id": "07",
+        "name": "The Complete Cyber Security Course : Hackers Exposed!",
+        "description": "This course is for anyone who wants to become an expert in security, privacy, and anonymity. This volume covers the required foundation building blocks of that skillset. For anyone who would love to gain a practical skillset in mitigating the risk from, malware, Trojans, hackers, tracker, cyber criminals and all online threats. This course is for anyone who wants to keep their precious files, emails, accounts and personal information out of the hands of the bad guys. For beginners and intermediate Internet users who are interested in security, safety, and privacy. For those who want privacy and anonymity online from hackers, corporations and governments. This course is designed for personal and home Internet security, privacy, and anonymity. Most of the topics apply in the same way to a business, but the course is delivered as if to an individual for personal Internet security, privacy and anonymity.",
+        "thumbnail": "https://i.ytimg.com/vi/cwQlRIpaLLo/maxresdefault.jpg",
+        "author": "Nathan House",
+        "price": "49.99",
+        "students": "246686",
+        "rating": "4.5"
+    },
+    {
+        "id": "08",
+        "name": "AWS Certified Security Specialty 2022",
+        "description": "AWS Certified Security - Specialty certification is one of the widely recognized security certifications across the industry. With the number of security breaches increasing every year, there is a huge demand for individuals who understands the security side of things, specifically Cloud-based Infrastructures. This course is specially designed for the aspirants who intend to give the AWS Certified Security Specialty 2022 certification as well for those who want to master the security side of AWS. Throughout the course, we explore various Real World scenarios and look into why do website gets hacked, what could have been done to prevent it, and learn the best practices related to Security for your AWS environment. Since this is a Specialty level certification, it is very important that the candidate has a prior hands-on experience in AWS, and this also acts as a pre-requisite to this certification. We do start our journey into the security side of things from scratch. With tons of quizzes in order to prepare you for exams, Real-world scenarios, and great Support from our Instructor in-case of doubts, this course is all you need to master the Security side of AWS and gain the certification. I look forward to seeing you join us in this exciting journey on AWS Security.",
+        "thumbnail": "https://i.ytimg.com/vi/THUrXS-ioA0/maxresdefault.jpg",
+        "author": "Zeal Vora",
+        "price": "34.99",
+        "students": "35362",
+        "rating": "4.6"
+    },
+    {
+        "id": "09",
+        "name": "Deep Learning Prerequisites: Linear Regression in Python",
+        "description": "This course teaches you about one popular technique used in machine learning, data science and statistics: linear regression. We cover the theory from the ground up: derivation of the solution, and applications to real-world problems. We show you how one might code their own linear regression module in Python. Linear regression is the simplest machine learning model you can learn, yet there is so much depth that you'll be returning to it for years to come. That's why it's a great introductory course if you're interested in taking your first steps in the fields of: deep learning, mechine learning, data science, statistics. This course focuses on how to build and understand, not just how to use. Anyone can learn to use an API in 15 minutes after reading some documentation. It's not about remembering facts, it's about seeing for yourself via experimentation. It will teach you how to visualize what's happening in the model internally. If you want more than just a superficial look at machine learning models, this course is for you.",
+        "thumbnail": "https://i.ytimg.com/vi/b2q5OFtxm6A/maxresdefault.jpg",
+        "author": "Lazy Programmer Inc.",
+        "price": "64.99",
+        "students": "30082",
+        "rating": "4.4"
+    },
+    {
+        "id": "10",
+        "name": "Canva Master Course | Learn Canva with Ronny",
+        "description": "I'm sure you want to learn the latest cool things you can do with Canva right? If you do, you are in the right place my friend! This course will help you get started with Canva (so don’t worry if you are a beginner) and then provide you with a roadmap that will push you to grow into a confident content creator. You will be creating visuals & animated GIFs for social media, you will edit all sorts of videos for TikTok, Instagram or YouTube, you’ll be making your own website and design convincing pitch deck presentations. Being an official Canva ambassador (Canva Expert) and having worked at Canva for 2 years gives me a deep understanding of the platform, where it’s going and how to best use it. As a Canva Expert, I get to test and access new features first and also receive VIP support from Canva to make sure I teach Canva in the best possible way to my community. ",
+        "thumbnail": "https://i.ytimg.com/vi/un50Bs4BvZ8/maxresdefault.jpg",
+        "author": "Ronny Hermosa",
+        "price": "14.99",
+        "students": "22351",
+        "rating": "4.7"
+    }
 ]
