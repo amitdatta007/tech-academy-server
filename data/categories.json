@@ -1,0 +1,26 @@
+[
+    {
+        "catagoryId": "01",
+        "name": "Web Development"
+    },
+    {
+        "catagoryId": "02",
+        "name": "Python Programming"
+    },
+    {
+        "catagoryId": "03",
+        "name": "Java Programming"
+    },
+    {
+        "catagoryId": "04",
+        "name": "Cyber Security"
+    },
+    {
+        "catagoryId": "05",
+        "name": "Graphic Design"
+    },
+    {
+        "catagoryId": "06",
+        "name": "Digital Marketing"
+    }   
+]

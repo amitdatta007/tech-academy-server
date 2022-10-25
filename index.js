@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 app.use(cors());
+const catagory = require('./data/categories.json');
 const courses = require('./data/courses.json');
 
 // PORT
@@ -12,14 +13,8 @@ app.get('/', (req, res) => {
     res.send('Tech Academy Server.');
 });
 
-app.get('/courses', (req, res) => {
-    res.send(courses);
-});
-
-app.get('/courses/:courseId', (req, res) => {
-    const courseId = req.params.courseId;
-    const course = courses.find( c => c.id === courseId);
-    res.send(course);
+app.get('/catagory', (req, res) => {
+    res.send(catagory);
 });
 
 
