@@ -16,10 +16,20 @@ app.get('/', (req, res) => {
 app.get('/catagory', (req, res) => {
     res.send(catagory);
 });
+app.get('/catagory/:catagoryId', (req, res) => {
+    const catagoryId = req.params.catagoryId;
+    if(catagoryId === '06'){
+        res.send(courses);
+    };
+    const course = courses.filter(c => catagoryId === c.catagoryId);
+    res.send(course);
+});
 
-
-
-
+app.get('/course/:courseId', (req, res) => {
+    const courseId = req.params.courseId;
+    const course = courses.find(c => courseId === c.id);
+    res.send(course);
+});
 
 // Listener
 app.listen(port, () => {
